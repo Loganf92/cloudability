@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#test
 # This script will create views with singular or multiple filters based on tags, dimensions or business mappings
 # You must know the tag number, the business mapping category number or the absolute dimension name as inputs to this script
 # For example in tag mappings, if your first tag mapping was called Name, then you would reference that as tag1
